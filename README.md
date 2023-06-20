@@ -4,8 +4,6 @@
 
 <h3 align="center">Embracing Tech Marvels and Revolutionizing Operations</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahin-sajjad" alt="nahin-sajjad" /></a> </p>
-
 - 🌱 I’m currently learning **Devops tools like Docker,Kubernetes,IAC**
 
 <h3 align="left">Connect with me:</h3>
