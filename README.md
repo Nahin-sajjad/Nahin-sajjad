@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahin Sajjad</h1>
-![github_cover_banner](![image](https://github.com/Nahin-sajjad/Nahin-sajjad/assets/105652253/00e00310-b60c-43a0-a34e-d93abb22fae8)
+![github_cover_banner](![image](https://github.com/Nahin-sajjad/Nahin-sajjad/assets/105652253/00e00310-b60c-43a0-a34e-d93abb22fae8))
 
 
 <h3 align="center">Embracing Tech Marvels and Revolutionizing Operations</h3>
