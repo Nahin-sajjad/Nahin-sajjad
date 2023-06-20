@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahin Sajjad</h1>
-![github_cover_banner](https://github.com/Nahin-sajjad/Nahin-sajjad/blob/main/DevOps-min.gif?raw=true)
+![github_cover_banner](https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif)
 <h3 align="center">Embracing Tech Marvels and Revolutionizing Operations</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahin-sajjad" alt="nahin-sajjad" /></a> </p>
