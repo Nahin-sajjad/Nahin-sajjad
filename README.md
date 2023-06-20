@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahin Sajjad</h1>
-![github_cover_banner](https://github.com/Nahin-sajjad/Nahin-sajjad/assets/105652253/00e00310-b60c-43a0-a34e-d93abb22fae8)
-
-
+![github_cover_banner](https://github.com/Nahin-sajjad/Nahin-sajjad/blob/main/DevOps-min.gif?raw=true)
 <h3 align="center">Embracing Tech Marvels and Revolutionizing Operations</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahin-sajjad" alt="nahin-sajjad" /></a> </p>
