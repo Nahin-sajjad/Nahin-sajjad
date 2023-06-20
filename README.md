@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nahin Sajjad</h1>
 <h3 align="center">Embracing Tech Marvels and Revolutionizing Operations</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif]">
 
 - 🌱 I’m currently learning **Devops tools like Docker,Kubernetes,IAC**
 
